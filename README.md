@@ -1,1 +1,1 @@
-# odin-recipe
+this project is a assignment from TOP's curriculum.
