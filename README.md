@@ -1,1 +1,1 @@
-this project is a assignment from TOP's curriculum.
+this project is an assignment from TOP's curriculum.
